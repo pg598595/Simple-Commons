@@ -25,12 +25,5 @@
                 android:text="@string/pattern_renaming" />
 
         </com.google.android.material.tabs.TabLayout>
-
-        <com.simplemobiletools.commons.views.MyViewPager
-            android:id="@+id/dialog_tab_view_pager"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/dialog_tab_layout" />
-
     </RelativeLayout>
 </com.simplemobiletools.commons.views.MyScrollView>
